@@ -1,3 +1,4 @@
 # InterIIT_QuantInsti
 
-## Candle Pattern already coded: (### list down below)
+## Candle Pattern already coded: 
+### (list down below)
