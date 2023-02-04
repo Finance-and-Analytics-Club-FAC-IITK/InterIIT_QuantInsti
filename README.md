@@ -1,4 +1,5 @@
 # InterIIT_QuantInsti
 
 ## Candle Pattern already coded: 
-### (list down below)
+
+Cup Handle, 5 Candles, Marubozu, Support Resistance, Double Bottom, 
