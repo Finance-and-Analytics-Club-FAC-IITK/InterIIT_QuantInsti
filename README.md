@@ -9,5 +9,10 @@ https://docs.google.com/document/d/1ilBX8XsCP2vu9e-xjDaT6cJBi3b9Tt0UIpWinBOqUQQ/
 
 Cup and Handle:
 https://docs.google.com/document/d/1gFenCdphdMmCh705oGnbnK8iebONLvaT0tRW6_4KfFc/edit
+https://docs.google.com/document/d/1ZTQ7WNRDSKtMnDdkB1AX_VrxOa7SwoBX0fjEzhOYK4I/edit?usp=sharing
+
+Triangle:
+https://docs.google.com/document/d/12T3r1cEARniWK25fd-sNqYa4luKUP2KR5dw9GIbbgNM/edit?usp=drivesdk
+
 
 
