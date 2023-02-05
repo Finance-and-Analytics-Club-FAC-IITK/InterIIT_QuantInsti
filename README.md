@@ -1,8 +1,8 @@
 # InterIIT_QuantInsti
 
-## Candle Pattern already coded: 
+## Candle/Chart Patterns already coded: 
 
-Cup Handle, 5 Candles, Marubozu, Support Resistance, Double Bottom, 
+Cup Handle, 5 Candles, Marubozu, Support Resistance, Double Bottom, Triangles, Head and Shoulders
 
 Marubozu:
 https://docs.google.com/document/d/1ilBX8XsCP2vu9e-xjDaT6cJBi3b9Tt0UIpWinBOqUQQ/edit
